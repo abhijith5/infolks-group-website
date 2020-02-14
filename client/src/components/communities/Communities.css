@@ -1,0 +1,33 @@
+.section-communities {
+  /* background-image: url("../../assets//Group/CommunityPage/OutPut/community.png"); */
+  /* background-size: cover; */
+  /* background-repeat: repeat; */
+  margin-top: -120px;
+  height: 80vh;
+}
+
+.io {
+  width: 100vw;
+  height: 100vh;
+}
+
+.ifo-communities-heading {
+  padding-top: 10%;
+  margin-left: 5%;
+  width: 70%;
+}
+
+.ifo-communities-heading-brand {
+  background-color: #2D4D9A;
+  padding: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.section-mobile-communities {
+  height: 80vh;
+  background-image: url("../../assets/Group/CommunityPage/OutPut/community.png");
+  background-size: cover;
+  margin-top: -40px;
+  background-position: 60%;
+}

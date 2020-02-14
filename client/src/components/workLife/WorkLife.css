@@ -1,0 +1,17 @@
+.section-worklife {
+  height: 70vh;
+}
+
+.com-img1 {
+  background-image: url("../../assets/Group/CommunityPage/OutPut/workLife.png");
+  background-size: cover;
+  height: 300px;
+  width: 500px;
+}
+
+.com-img2 {
+  background-image: url("../../assets/Group/CommunityPage/OutPut/celebration.png");
+  background-size: cover;
+  height: 300px;
+  width: 500px;
+}

@@ -1,0 +1,21 @@
+.section-contact {
+  height: 80vh;
+  /* background-image: url("../../assets/Group/ContactUS/OutPut/ContactUs.jpg"); */
+  margin-top: -140px;
+  /* background-size: cover;
+  background-repeat: no-repeat; */
+
+}
+
+.section-mobile-contact {
+  height: 80vh;
+  background-image: url("../../assets/Group/ContactUS/OutPut/ContactUs.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  margin-top: -40px;
+  background-position: 15%;
+}
+
+.section-contact-about {
+  height: 120vh;
+}

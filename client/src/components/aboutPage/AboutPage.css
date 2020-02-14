@@ -1,0 +1,20 @@
+.section-aboutPage {
+  /* background-image: url("../../assets//Group/AboutUs/AboutUs.jpg"); */
+  /* background-size: cover;
+  background-repeat: repeat; */
+  margin-top: -120px;
+  height: 80vh;
+  /* background-attachment: fixed; */
+}
+
+.section-mobile-about {
+  background-image: url("../../assets//Group/AboutUs/AboutUs.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  margin-top: -40px;
+  height: 80vh;
+}
+
+.uk-overlay-primary {
+  background: rgba(34, 34, 34, 0.2) !important;
+}

@@ -1,0 +1,25 @@
+.section-teamPage {
+  /* height: 80vh;
+  background-image: url("../../assets/Group/Team/OutPut/Team.jpg");
+  background-size: cover;
+  background-repeat: repeat; */
+  margin-top: -140px
+}
+
+.ifo-team-heading {
+  padding-top: 10%;
+}
+
+.section-directors {
+  /* height: 100vh; */
+}
+
+.section-mobile-team {
+  height: 80vh;
+  background-image: url("../../assets/Group/Team/OutPut/Team.jpg");
+  background-size: cover;
+  background-position: 40%;
+  background-repeat: repeat;
+  margin-top: -40px
+
+}

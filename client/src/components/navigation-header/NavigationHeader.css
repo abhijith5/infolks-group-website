@@ -1,0 +1,17 @@
+.ifo-nav>li>a {
+  font-size: 12px;
+  color: white;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+
+/* a:hover {
+  color: White !important;
+  font-weight: 600;
+  }
+
+  a:active,a:visited{
+    color: White !important;
+  font-weight: 600;
+  } */

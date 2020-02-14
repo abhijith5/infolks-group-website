@@ -1,0 +1,45 @@
+.section-career {
+  /* height: 80vh;
+  background-image: url("../../assets/Group/Career/OutPut/Career.jpg"); */
+  margin-top: -140px;
+  /* background-size: cover;
+  background-repeat: no-repeat; */
+
+}
+
+.section-mobile-career {
+  height: 80vh;
+  background-image: url("../../assets/Group/Career/OutPut/Career.jpg");
+  background-position: 40%;
+  margin-top: -40px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.section-career-about {
+  height: 30vh;
+}
+
+.ul-opening {
+  background-color: #f3f3f3;
+  padding: 20px
+}
+
+.ul-opening1 {
+  padding: 20px
+}
+
+/* .uk-accordion-title {
+  padding: 8px;
+  width: 18%;
+  background-color: blue;
+  color: white;
+  font-size: 12px;
+  border-radius: 20px;
+  padding-left: 16px;
+} */
+
+.uk-accordion-title::before {
+  background-image: none;
+}

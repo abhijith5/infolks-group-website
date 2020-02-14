@@ -1,0 +1,29 @@
+.section-software {
+  height: 80vh;
+  /* background-image: url("../../assets/Group/Software/OutPut/Software.jpg"); */
+  margin-top: -120px;
+  /* background-size: cover;
+  background-repeat: no-repeat; */
+
+}
+
+.section-software-about {
+  height: 30vh;
+}
+
+.section-software-lead {
+  height: 70vh;
+}
+
+.uk-card-default {
+  box-shadow: 0 !important;
+}
+
+.section-mobile-software {
+  height: 80vh;
+  background-image: url("../../assets/Group/Software/OutPut/Software.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: 18%;
+  margin-top: -40px
+}

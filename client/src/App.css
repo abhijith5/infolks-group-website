@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+html {
+  scroll-behavior: smooth;
+  background-image: url('../src/assets/Group/Doodle-new.png');
+  background-size: contain;
+
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+
+}
+
+.ifo-fontweight-700 {
+  font-weight: 700;
+}
+
+.ifo-white {
+  color: white;
+}
+
+.ifo-black {
+  color: black;
+}
+
+.ifo-brand {
+  color: #2D4D9A;
+}
+
+.ifo-container {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.ifo-btn {
+  background-color: #2D4D9A;
+  color: white;
+  border-radius: 5px;
+}
+
+.ifo-about-heading-lorem {
+  background-color: #2D4D9A;
+  padding: 10px;
+  margin: 0;
+  color: white;
+  margin-left: 5px
+}
+
+
+/* Mobile */
+.ifo-mobile-padding {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* body{
+  overflow: hidden;
+} */
+
+.uk-card-default {
+  background: none
+}
+

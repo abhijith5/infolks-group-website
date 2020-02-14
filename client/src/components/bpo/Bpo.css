@@ -1,0 +1,15 @@
+.section-bpo {
+  height: 80vh;
+  /* background-image: url("../../assets/Group/BPO/OutPut/BPO.jpg"); */
+  margin-top: -120px;
+  /* background-size: cover;
+  background-repeat: no-repeat; */
+}
+
+.section-mobile-bpo {
+  height: 80vh;
+  background-image: url("../../assets/Group/BPO/OutPut/BPO.jpg");
+  margin-top: -80px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

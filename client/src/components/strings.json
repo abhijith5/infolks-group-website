@@ -1,0 +1,420 @@
+{
+  "home": {
+    "homeHeading": "OUTSTANDING OUTSOURCING…!",
+    "homeDesc": "Get your secondary needs done with our curated teams.",
+    "homeAbout": {
+      "homeAboutHeading": "",
+      "homeAboutHeadingHigh": "",
+      "homeAboutDescription": " Infolks group is a rapidly growing outsourcing company that offers services with a variety of resources through systematic management approach. Our ability to integrate diversification from resources to meet growing demands across multiple sector had enabled us to carry out any work in a cost-efficient manner. We support your businesses by taking away the time-consuming secondary tasks from your day-to-day routines. By offering all kinds of outsourcing services with global capability, we had enabled a complete spectrum of business services to our worldwide customers. With young and talented minds in hand, Infolks offers a consulting-led approach and focuses on integrated end-to-end business services that deliver transformational benefits to the clients through process re-engineering, lower costs and better productivity.",
+      "homeAboutBtn": "Learn More About"
+    },
+    "homeMissionVision": {
+      "homeMissionVisionHeading": "Mission & Vision",
+      "homeMissionDescription": "“To reform our village and inspire the world with tireless youth to enhance the best quality services”",
+      "homeVisionDescription": "“We desire to become the most compelling outsourcing providers in the world offering utmost in meeting customer expectations and grant immense opportunities to young talents.” "
+    },
+    "homeOurServices": {
+      "homeOurServicesHeading": "Our",
+      "homeOurServicesHeadingHigh": "Services",
+      "homeOurServicesShortDescription": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,",
+      "homeOurServices1": {
+        "serviceImageUrl": "https://www.websiteblue.com/wp-content/uploads/Alpha-Digital-Logo.png",
+        "serviceImageName": "Image Annoatation"
+      },
+      "homeOurServices2": {
+        "serviceImageUrl": "https://www.websiteblue.com/wp-content/uploads/Alpha-Digital-Logo.png",
+        "serviceImageName": "Software Development"
+      },
+      "homeOurServices3": {
+        "serviceImageUrl": "https://www.websiteblue.com/wp-content/uploads/Alpha-Digital-Logo.png",
+        "serviceImageName": "BPO Services"
+      },
+      "homeOurServices4": {
+        "serviceImageUrl": "https://www.websiteblue.com/wp-content/uploads/Alpha-Digital-Logo.png",
+        "serviceImageName": "Redaction"
+      },
+      "homeOurServices5": {
+        "serviceImageUrl": "https://www.websiteblue.com/wp-content/uploads/Alpha-Digital-Logo.png",
+        "serviceImageName": "Outstaffing"
+      }
+    },
+    "homeOurTeam": {
+      "homeOurTeamHeading": "MEET OUR",
+      "homeOurTeamHeadingHigh": "TEAM",
+      "homeOurTeamDescription": "Talent wins games, but teamwork and intelligence wins championships. Our team is what that makes us proud! They set the tone of our successful journey, a unique combination of talent and bold vision for the future. Meet the leaders behind our success!",
+      "homeOurTeam1": {
+        "teamImagePosition": "CEO & Founder",
+        "teamImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQMMDCqnwgaqQkH-tHITuEqjl58tSKT3rNs7dsiZ-Cj4rixs5jQ",
+        "teamDesc": "Mr. Mujeeb Kolasseri"
+      },
+      "homeOurTeam2": {
+        "teamImagePosition": "CEO & Founder",
+        "teamImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQMMDCqnwgaqQkH-tHITuEqjl58tSKT3rNs7dsiZ-Cj4rixs5jQ",
+        "teamDesc": "Mr. Mujeeb Kolasseri"
+      },
+      "homeOurTeam3": {
+        "teamImagePosition": "CEO & Founder",
+        "teamImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQMMDCqnwgaqQkH-tHITuEqjl58tSKT3rNs7dsiZ-Cj4rixs5jQ",
+        "teamDesc": "Mr. Mujeeb Kolasseri"
+      }
+    },
+    "homeTestimonials": {
+      "homeTestimonialsHeading": "Testimonials",
+      "homeTestimonials1": {
+        "testimonialsAuthor": "Jhonson Jhonson",
+        "testimonialsPosition": "Ceo & Md",
+        "testimonialsDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+      },
+      "homeTestimonials2": {
+        "testimonialsAuthor": "Jhonson Jhonson",
+        "testimonialsPosition": "Ceo & Md",
+        "testimonialsDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+      },
+      "homeTestimonials3": {
+        "testimonialsAuthor": "Jhonson Jhonson",
+        "testimonialsPosition": "Ceo & Md",
+        "testimonialsDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+      },
+      "homeTestimonials4": {
+        "testimonialsAuthor": "Jhonson Jhonson",
+        "testimonialsPosition": "Ceo & Md",
+        "testimonialsDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+      },
+      "homeTestimonials5": {
+        "testimonialsAuthor": "Jhonson Jhonson",
+        "testimonialsPosition": "Ceo & Md",
+        "testimonialsDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+      },
+      "homeTestimonials6": {
+        "testimonialsAuthor": "Jhonson Jhonson",
+        "testimonialsPosition": "Ceo & Md",
+        "testimonialsDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+      }
+    },
+    "homeOurProducts": {
+      "homeOurProductsImageUrl1": "",
+      "homeOurProductsImageUrl2": "",
+      "homeOurProductsImageUrl3": "",
+      "homeOurProductsImageUrl4": "",
+      "homeOurProductsImageUrl5": "",
+      "homeOurProductsImageUrl6": "",
+      "homeOurProductsImageUrl7": "",
+      "homeOurProductsImageUrl8": ""
+    }
+  },
+  "about": {
+    "aboutHeading": "About Us",
+    "aboutShortDescription": "We are a leading outsourcing company majored in image annotation services.",
+    "aboutDescription1": "At Infolks, we work to meet the secondary needs of leading companies so that they can concentrate more on their actual goals. Being a technologically motivated and innovative entity, we always aim at powering up future technologies. This is why we are very much focused on image annotation services. With just 7 young and energetic minds we started our journey way back in 2016. From there on we leveraged to a considerable sum of around 250 employees within just a span of 3 years. Guided by the most talented and experienced one among us Mr. Mujeeb Kolasseri, Founder, MD & CEO of INFOLKS Group, we had triumph the world with our skills especially in image annotation. We have never limited ourselves to image annotation. Furthermore we outsource services accounting to BPO, redaction, software development and outstaffing. We are always ready to stretch and flex ourselves according to your needs so that your milestones, timelines and budgets are not forced to. ",
+    "aboutDescription2": "",
+    "numberEmbloyees": "210",
+    "timeline": {
+      "timelineHeading": "Milestine",
+      "timeline1": {
+        "timelineYear": "June 2016",
+        "timelineDescription": "No business is born huge and comes up from small victories. Starting off with a seven-member team, introduced annotation services in the state. Being a beginner in this field the hurdles ahead were plenty."
+      },
+      "timeline2": {
+        "timelineYear": "Sep 2016",
+        "timelineDescription": "Moving past the incubation period marked our official and legal beginning towards encountering new possibilities. Our workforce leveraged to a count of 20+ employees along with building the best management team. We started the journey towards our expected goal."
+      },
+      "timeline3": {
+        "timelineYear": "Jan 2017",
+        "timelineDescription": "It  is a stage of transition from one to the other. Our workforce expanded to a  count of 70+ employees growing to something bigger. Set up a well-equipped workspace and developed a new culture of empathy and affection through social services. "
+      },
+      "timeline4": {
+        "timelineYear": " Feb 2018",
+        "timelineDescription": "Over the course of time, our team expanded to 150+ employees. The company made an important change by entering into different zones developing a new workspace and leveraging workforce. We started making changes to our normal path by utilizing advanced technologies.  "
+      },
+      "timeline5": {
+        "timelineYear": "March 2019",
+        "timelineDescription": "A big step towards the future. Rebranded ourselves along with extension of office premises. Rejuvenated the look, keeping the same service and quality. We are ready for bigger clients & projects! "
+      },
+      "timeline6": {
+        "timelineYear": "August 2019",
+        "timelineDescription": "We were ISO 27001: 2013 certified embarking our responsibility towards data security. The month was also the occasion of completing 3rd successful year."
+      }
+    }
+  },
+  "communities": {
+    "communitiesHeading": "Welcome to",
+    "communitiesHeadingHigh": "Infolks Family",
+    "communitiesDescription": "We change the way people feel about work life through our friendly and family atmosphere. ",
+    "worklife": {
+      "worklifeHeading": "Worklife @ ",
+      "worklifeHeadingHigh": "Infolks",
+      "worklifeDescription1": "Work culture is the base foundation of our success. At Infolks, we follow a family concept which is rare to see in many companies. In such a hostile environment we offer our members better salary packages and flexibility which makes it easy for them to find a balance in their work and life. We are also proud to be an organization that takes pride in its young work-force. Such a workforce is made possible by providing a great platform to freshers and youngsters, and make them excellent professionals by providing a wide horizon to grow and develop their skill",
+      "worklifeDescription2": "Occasional events are the next better thing at INFOLKS. Ranging from regional holidays to international days are celebrated for upkeeping the morale of employees. Quality day conducted monthly to honour the quality skills of employees and INFIESTA (anniversary celebration) held annually are some of the most notable celebrations of INFOLKS. Despite celebrations we also keep up the morale of employees through reduced work loads. For this Infolks follows international standards in working hours. Here our members need to work for only 7 hours a day compared to the Indian standards making the opportunities at Infolks high rated.  ",
+      "worklifeDescription3": "We are very transparent in terms of hiring policies, financials,vision and our social responsibilities. Good work culture, pleasing company management, stress-free environment, Insurance for you and your dependents and best salary package makes Infolks an exciting place to work. "
+    },
+    "meetups": {
+      "meetupsHeading": "Meetups",
+      "meetups1": {
+        "meetupsName": "ONGG Conference 2019",
+        "meetupsDate": "Banglore | Aug 13"
+      },
+      "meetups2": {
+        "meetupsName": "ONGG Conference 2019",
+        "meetupsDate": "Banglore | Aug 13"
+      },
+      "meetups3": {
+        "meetupsName": "ONGG Conference 2019",
+        "meetupsDate": "Banglore | Aug 13"
+      },
+      "meetups4": {
+        "meetupsName": "ONGG Conference 2019",
+        "meetupsDate": "Banglore | Aug 13"
+      },
+      "meetups5": {
+        "meetupsName": "ONGG Conference 2019",
+        "meetupsDate": "Banglore | Aug 13"
+      }
+    },
+    "social": {
+      "socialHeading": "Social",
+      "socialHeadingHigh": " Responsibility",
+      "socialDescription": "Being a tech giant is not the only vision of Infolks. We strongly believe that we hold a huge responsibility towards our society and make someone’s dream come true. You may feel like a drop in the bucket. But every drop counts. With around 250 young and energetic employees, especially from rural areas, we are still working to meet the goals of our ultimate campaign “Employed India”. In addition to it, Infolks have taken over almost 20 families over the past 3 years with clear guidance from our charity council. The ultimate aim of Infolks is empowering communities, ending poverty. This divine effort and fruitful dedication towards the community made Infolks look after many indigent families especially by providing victuals. "
+    },
+    "qa": {
+      "qaHeading": "Questions & Answers",
+      "qa1": {
+        "qaHeading": "What Lorem Ipsum",
+        "qaImageUrl": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a",
+        "qaAuthor": "By Drisya Prakash",
+        "qaDate": "Aug 9 2019",
+        "qaDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "qalink": ""
+      },
+      "qa2": {
+        "qaHeading": "What Lorem Ipsum",
+        "qaImageUrl": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a",
+        "qaAuthor": "By Drisya Prakash",
+        "qaDate": "Aug 9 2019",
+        "qaDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "qalink": ""
+      },
+      "qa3": {
+        "qaHeading": "What Lorem Ipsum",
+        "qaImageUrl": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a",
+        "qaAuthor": "By Drisya Prakash",
+        "qaDate": "Aug 9 2019",
+        "qaDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "qalink": ""
+      },
+      "qa4": {
+        "qaHeading": "What Lorem Ipsum",
+        "qaImageUrl": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a",
+        "qaAuthor": "By Drisya Prakash",
+        "qaDate": "Aug 9 2019",
+        "qaDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "qalink": ""
+      },
+      "qa5": {
+        "qaHeading": "What Lorem Ipsum",
+        "qaImageUrl": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a",
+        "qaAuthor": "By Drisya Prakash",
+        "qaDate": "Aug 9 2019",
+        "qaDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "qalink": ""
+      },
+      "qa6": {
+        "qaHeading": "What Lorem Ipsum",
+        "qaImageUrl": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a",
+        "qaAuthor": "By Drisya Prakash",
+        "qaDate": "Aug 9 2019",
+        "qaDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "qalink": ""
+      },
+      "qa7": {
+        "qaHeading": "What Lorem Ipsum",
+        "qaImageUrl": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a",
+        "qaAuthor": "By Drisya Prakash",
+        "qaDate": "Aug 9 2019",
+        "qaDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "qalink": ""
+      },
+      "qa8": {
+        "qaHeading": "What Lorem Ipsum",
+        "qaImageUrl": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a",
+        "qaAuthor": "By Drisya Prakash",
+        "qaDate": "Aug 9 2019",
+        "qaDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "qalink": ""
+      },
+      "qa9": {
+        "qaHeading": "What Lorem Ipsum",
+        "qaImageUrl": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a",
+        "qaAuthor": "By Drisya Prakash",
+        "qaDate": "Aug 9 2019",
+        "qaDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "qalink": ""
+      },
+      "qa10": {
+        "qaHeading": "What Lorem Ipsum",
+        "qaImageUrl": "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png?v=c78bd457575a",
+        "qaAuthor": "By Drisya Prakash",
+        "qaDate": "Aug 9 2019",
+        "qaDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "qalink": ""
+      }
+    }
+  },
+  "ourTeam": {
+    "ourTeamHeading": "Our",
+    "ourTeamHeadingHigh": " Team",
+    "ourTeamDescription": "Get to know the industrious management who fuel Infolks!    ",
+    "ourDirectors": {
+      "ourDirectorsImageUrl": "https://490z7i45htbb1f4tty9mdpi6-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/Data-Anno-Mujeeb-Kolasseri-Infolks.jpg",
+      "ourDirectorsHeading": "Mr. Mujeeb Kolasseri",
+      "ourDirectorsPosition": "Founder , MD & CEO",
+      "ourDirectorsDescription": "Mr. Mujeeb Kolasseri is a dreamer, a visionary and a strategist who laid the stepping stone of Infolks. Started the journey as an entrepreneur in the year 2016 by focusing on image annotation and machine learning techniques. Within 4 years of service, he has built his own empire in the field of data labeling and has this unique ability to attract the best talent, and engage with them to create global leadership teams which can drive Infolks to its next level.",
+      "ourDirectorsLinkedIn": ""
+    },
+    "ourDirectors2": {
+      "ourDirectorsImageUrl": "https://490z7i45htbb1f4tty9mdpi6-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/Data-Anno-Mujeeb-Kolasseri-Infolks.jpg",
+      "ourDirectorsHeading": "Mr. Mujeeb Kolasseri",
+      "ourDirectorsPosition": "Founder , MD & CEO",
+      "ourDirectorsDescription": "Mr. Mujeeb Kolasseri is a dreamer, a visionary and a strategist who laid the stepping stone of Infolks. Started the journey as an entrepreneur in the year 2016 by focusing on image annotation and machine learning techniques. Within 4 years of service, he has built his own empire in the field of data labeling and has this unique ability to attract the best talent, and engage with them to create global leadership teams which can drive Infolks to its next level.",
+      "ourDirectorsLinkedIn": ""
+    },
+    "ourDirectors3": {
+      "ourDirectorsImageUrl": "https://490z7i45htbb1f4tty9mdpi6-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/Data-Anno-Mujeeb-Kolasseri-Infolks.jpg",
+      "ourDirectorsHeading": "Mr. Mujeeb Kolasseri",
+      "ourDirectorsPosition": "Founder , MD & CEO",
+      "ourDirectorsDescription": "Mr. Mujeeb Kolasseri is a dreamer, a visionary and a strategist who laid the stepping stone of Infolks. Started the journey as an entrepreneur in the year 2016 by focusing on image annotation and machine learning techniques. Within 4 years of service, he has built his own empire in the field of data labeling and has this unique ability to attract the best talent, and engage with them to create global leadership teams which can drive Infolks to its next level.",
+      "ourDirectorsLinkedIn": ""
+    },
+    "teamLeaders1": {
+      "leadersImagePosition": "Operations Manager",
+      "leadersImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQMMDCqnwgaqQkH-tHITuEqjl58tSKT3rNs7dsiZ-Cj4rixs5jQ",
+      "leadersName": "AJITH SREERAG M"
+    },
+    "teamLeaders2": {
+      "leadersImagePosition": " HR Manager",
+      "leadersImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQMMDCqnwgaqQkH-tHITuEqjl58tSKT3rNs7dsiZ-Cj4rixs5jQ",
+      "leadersName": "HAREESH VS"
+    },
+    "teamLeaders3": {
+      "leadersImagePosition": "Project Lead",
+      "leadersImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQMMDCqnwgaqQkH-tHITuEqjl58tSKT3rNs7dsiZ-Cj4rixs5jQ",
+      "leadersName": "IBRAHIM BADUSHA P V"
+    },
+    "teamLeaders4": {
+      "leadersImagePosition": "Finance manager",
+      "leadersImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQMMDCqnwgaqQkH-tHITuEqjl58tSKT3rNs7dsiZ-Cj4rixs5jQ",
+      "leadersName": "ZAKARIYYA K"
+    },
+    "teamLeaders5": {
+      "leadersImagePosition": "Lead Data & Annotation",
+      "leadersImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQMMDCqnwgaqQkH-tHITuEqjl58tSKT3rNs7dsiZ-Cj4rixs5jQ",
+      "leadersName": "SOORAJ CHAMUNNI"
+    },
+    "teamLeaders6": {
+      "leadersImagePosition": "Tech Lead",
+      "leadersImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQMMDCqnwgaqQkH-tHITuEqjl58tSKT3rNs7dsiZ-Cj4rixs5jQ",
+      "leadersName": "MIDHUN P"
+    },
+    "teamLeaders7": {
+      "leadersImagePosition": "BD Manager",
+      "leadersImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQMMDCqnwgaqQkH-tHITuEqjl58tSKT3rNs7dsiZ-Cj4rixs5jQ",
+      "leadersName": "AVINESH V"
+    },
+    "teamLeaders8": {
+      "leadersImagePosition": "PR LEAD",
+      "leadersImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQMMDCqnwgaqQkH-tHITuEqjl58tSKT3rNs7dsiZ-Cj4rixs5jQ",
+      "leadersName": "ASIF ALI P"
+    },
+    "teamLeaders9": {
+      "leadersImagePosition": "CEO & Founder",
+      "leadersImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQMMDCqnwgaqQkH-tHITuEqjl58tSKT3rNs7dsiZ-Cj4rixs5jQ",
+      "leadersName": "Mr. Mujeeb Kolasseri"
+    }
+  },
+  "career": {
+    "careerHeading": "Join Us",
+    "careerHeadingHigh": "Work with Us",
+    "careerShortDescription": "Explore your future with Us",
+    "careerDescription": "Infolks is an Indian based outsourcing platform majored in data labeling services. We look forward to working with energetic people who seek greater meaning in their work and want to use their talents in the right way. Infolks offers a wide range of job opportunities for both freshers and experienced ones. Once joined, you become part of a collaborative organization where your unity, communication, teamwork, and responsibility is valued. We welcome you to work in an enjoyable and a flexible work environment. Choose your right passion, apply here and explore your future with no limits.",
+    "opening1": {
+      "openingHeading": "BUSINESS DEVELOPMENT EXECUTIVE",
+      "openingShortDescription": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy te orem Ipsum",
+      "openingDescription": "As a Business Development Executive you hold responsible to keep up the company-client relations through perfect support. Your efforts will be channeled for new client acquisitions, design creative ideas to attract new service seekers, and create new business opportunities.",
+      "openingQualification1": " Any degree(mandatory)",
+      "openingQualification2": "",
+      "openingQualification3": "",
+      "openingQualification4": "",
+      "openingQualification5": "",
+      "openingSkill": "Proficient in English, good communication skills, punctuality, and good attitude.",
+      "openingExp": "Priority for candidates experienced in the related fields. Freshers can also apply."
+    },
+    "opening2": {
+      "openingHeading": "BUSINESS DEVELOPMENT EXECUTIVE",
+      "openingShortDescription": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy te orem Ipsum",
+      "openingDescription": "As a Business Development Executive you hold responsible to keep up the company-client relations through perfect support. Your efforts will be channeled for new client acquisitions, design creative ideas to attract new service seekers, and create new business opportunities.",
+      "openingQualification1": " Any degree(mandatory)",
+      "openingQualification2": "",
+      "openingQualification3": "",
+      "openingQualification4": "",
+      "openingQualification5": "",
+      "openingSkill": "Proficient in English, good communication skills, punctuality, and good attitude.",
+      "openingExp": "Priority for candidates experienced in the related fields. Freshers can also apply."
+    },
+    "opening3": {
+      "openingHeading": "BUSINESS DEVELOPMENT EXECUTIVE",
+      "openingShortDescription": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy te orem Ipsum",
+      "openingDescription": "As a Business Development Executive you hold responsible to keep up the company-client relations through perfect support. Your efforts will be channeled for new client acquisitions, design creative ideas to attract new service seekers, and create new business opportunities.",
+      "openingQualification1": " Any degree(mandatory)",
+      "openingQualification2": "",
+      "openingQualification3": "",
+      "openingQualification4": "",
+      "openingQualification5": "",
+      "openingSkill": "Proficient in English, good communication skills, punctuality, and good attitude.",
+      "openingExp": "Priority for candidates experienced in the related fields. Freshers can also apply."
+    },
+    "opening4": {
+      "openingHeading": "BUSINESS DEVELOPMENT EXECUTIVE",
+      "openingShortDescription": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy te orem Ipsum",
+      "openingDescription": "As a Business Development Executive you hold responsible to keep up the company-client relations through perfect support. Your efforts will be channeled for new client acquisitions, design creative ideas to attract new service seekers, and create new business opportunities.",
+      "openingQualification1": " Any degree(mandatory)",
+      "openingQualification2": "",
+      "openingQualification3": "",
+      "openingQualification4": "",
+      "openingQualification5": "",
+      "openingSkill": "Proficient in English, good communication skills, punctuality, and good attitude.",
+      "openingExp": "Priority for candidates experienced in the related fields. Freshers can also apply."
+    },
+    "opening5": {
+      "openingHeading": "BUSINESS DEVELOPMENT EXECUTIVE",
+      "openingShortDescription": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy te orem Ipsum",
+      "openingDescription": "As a Business Development Executive you hold responsible to keep up the company-client relations through perfect support. Your efforts will be channeled for new client acquisitions, design creative ideas to attract new service seekers, and create new business opportunities.",
+      "openingQualification1": " Any degree(mandatory)",
+      "openingQualification2": "",
+      "openingQualification3": "",
+      "openingQualification4": "",
+      "openingQualification5": "",
+      "openingSkill": "Proficient in English, good communication skills, punctuality, and good attitude.",
+      "openingExp": "Priority for candidates experienced in the related fields. Freshers can also apply."
+    },
+    "opening6": {
+      "openingHeading": "BUSINESS DEVELOPMENT EXECUTIVE",
+      "openingShortDescription": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy te orem Ipsum",
+      "openingDescription": "As a Business Development Executive you hold responsible to keep up the company-client relations through perfect support. Your efforts will be channeled for new client acquisitions, design creative ideas to attract new service seekers, and create new business opportunities.",
+      "openingQualification1": " Any degree(mandatory)",
+      "openingQualification2": "",
+      "openingQualification3": "",
+      "openingQualification4": "",
+      "openingQualification5": "",
+      "openingSkill": "Proficient in English, good communication skills, punctuality, and good attitude.",
+      "openingExp": "Priority for candidates experienced in the related fields. Freshers can also apply."
+    }
+  },
+  "software": {
+    "softwareHeading": "SOFTWARE",
+    "softwareHeadingHigh": " SOLUTIONS",
+    "softwareShortDescription": "Advance your business with our IT solutions.",
+    "softwareDescription": "Infolks is a global software development company with immense niche expertise and focus on the latest technologies. We provide world‑class services through our reliable, and trusted team specialized in web designing and android/software development offering a fully-optimized solution for all your software and digital marketing needs.",
+    "softwareItem1": {
+      "itemTitle": ""
+    }
+  }
+}
