@@ -56,7 +56,8 @@ class Team extends Component {
                     <h2>Mr. Mujeeb Kolasseri</h2>
                     <p style={{ marginTop: 0 }}>Founder, MD & CEO</p>
                     <div className="uk-text-left">
-                      <p style={{ marginTop: "30px" }}>Mr. Mujeeb Kolasseri is a dreamer, a visionary and a strategist who laid the stepping stone of Infolks. Started the journey as an entrepreneur in the year 2016 by focusing on image annotation and machine learning techniques. Within 4 years of service, he has built his own empire in the field of data labeling and has this unique ability to attract the best talent, and engage with them to create global leadership teams which can drive Infolks to its next level.</p>
+                      <p style={{ marginTop: "30px" }}>Mr. Mujeeb Kolasseri is a dreamer, a visionary and a strategist who laid the stepping stone of Infolks. Before coming up with the idea of Infolks, he was an active data labeller of the Amazon MTurk community for around 1 year. The journey as an entrepreneur began in the year 2016 by implementing an image annotation company. Within 4 years of service, he has built his own empire in the field of data labeling and has this unique ability to attract the best talent, and engage with them to create global leadership teams which can drive Infolks to its next level.
+</p>
                       <div className="uk-flex">
                         <img src="http://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" style={{ width: "25px", height: "25px" }}></img>
                         <p style={{ paddingLeft: "15px", margin: 0 }}></p>
@@ -74,7 +75,7 @@ class Team extends Component {
                     <h2>Mr. Muneer Kolasseri</h2>
                     <p style={{ marginTop: 0 }}>Chairman & Director</p>
                     <div className="uk-text-left">
-                      <p style={{ marginTop: "30px" }}>Mr. Muneer Kolasseri chairs the board of Infolks group after 6 years of expatriate life in Saudi Arabia. His immense experience and expertise in the service sector have helped Infolks steer to its bright future. Through his strategic vision, astute decision making and unmatched execution, he has inspired and nurtured his pupil to achieve their full potential. For Infolks, he is a big brother who has inspired the whole family with his charismatic personality and a clear sense of direction towards the company. </p>
+                      <p style={{ marginTop: "30px" }}>Mr. Muneer Kolasseri chairs the board of Infolks group after 6 years of expatriate life in Saudi Arabia. His immense experience and expertise in the service sector have helped Infolks steer to its bright future. Through his strategic vision, astute decision making and unmatched execution, he has inspired and nurtured his pupils to achieve their full potential. For Infolks, he is a big brother who has inspired the whole family with his charismatic personality and a clear sense of direction towards the company.</p>
                       <div className="uk-flex">
                         <img src="http://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" style={{ width: "25px", height: "25px" }}></img>
                         <p style={{ paddingLeft: "15px", margin: 0 }}></p>
@@ -92,7 +93,7 @@ class Team extends Component {
                     <h2>Mr. Navas Thazhathethil</h2>
                     <p style={{ marginTop: 0 }}>GM & Director</p>
                     <div className="uk-text-left">
-                      <p style={{ marginTop: "30px" }} >Mr.Navas Thazhathethil, a man staring at the infolks group with all his determination to pave its way to success.  With his knowledge and expertise in the field of Commerce, his guidance to the company’s formation and its smooth running is an inevitable one. He combines the passion for employee satisfaction and business process expertise.</p>
+                      <p style={{ marginTop: "30px" }} >Mr.Navas Thazhathethil, a man staring at the infolks group with all his determination to pave its way to success. With his knowledge and expertise in the field of Commerce, his guidance to the company’s formation and its smooth running is an inevitable one. He combines the passion for employee satisfaction and business process expertise.</p>
                       <div className="uk-flex">
                         <img src="http://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" style={{ width: "25px", height: "25px" }}></img>
                         <p style={{ paddingLeft: "15px", margin: 0 }}></p>

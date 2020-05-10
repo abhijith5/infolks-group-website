@@ -22,11 +22,11 @@ class Navigation extends Component {
 
           <div class="uk-navbar-right" style={{ paddingRight: "50px", paddingTop: "-30px" }}>
             <ul class="uk-navbar-nav ifo-navigation-li-a">
-              <li><a href="https://infolks.info/">Home</a></li>
+              <li><Link to="/">Home</Link></li>
               <li><Link to="/about">About Us</Link></li>
               <li><Link to="/community">Community</Link></li>
               <li><Link to="/ourteam">Our Team</Link></li>
-              <li><Link to="/career">Career</Link></li>
+              <li><Link to="https://infolks.info/career">Career</Link></li>
               <li><Link to="/contact">Contact</Link></li>
               <li><a href="https://www.infolks.info/blog/">Blog</a></li>
 

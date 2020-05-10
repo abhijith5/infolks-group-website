@@ -26,6 +26,7 @@ import Bpo from './components/bpo/Bpo';
 import Outstaffing from './components/outstaffing/Outstaffing';
 import Career from './components/career/Career';
 import Contact from './components/contact/Contact';
+import newsRoom from './components/newsRoom/newsRoom';
 
 const Route = require("react-router-dom").Route;
 
@@ -50,6 +51,7 @@ class Routes extends Component {
             <Route path="/outstaffing" component={Outstaffing} />
             <Route path="/career" component={Career} />
             <Route path="/contact" component={Contact} />
+            <Route path="/newsroom" component={newsRoom} />
 
           </Switch>
 

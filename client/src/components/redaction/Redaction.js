@@ -27,10 +27,11 @@ class Redaction extends Component {
               <div class="uk-overlay-primary uk-position-cover" style={{ marginTop: "-20px", height: "80vh", width: "100vw" }} ></div>
               <div class="">
                 <div className="uk-position-center-left" style={{ paddingLeft: "50px", zIndex: 900, marginTop: "50px" }}>
-                  <h1 className="ifo-white" style={{ fontSize: "50px" }}>Data Redaction For </h1>
-                  <span className="ifo-communities-heading-brand ifo-white" style={{ fontSize: "50px" }}> Enhanced Security</span>
-                  <p className="ifo-white">Worried about your privacy? Never again!</p>
-                  <p className="ifo-white">We help you protect it through our secure redaction.</p>
+                  <span className="ifo-communities-heading-brand ifo-white" style={{ fontSize: "50px" }}>Data Redaction</span><br></br>
+                  <span className="ifo-white" style={{ fontSize: "50px" }}>For Enhanced Privacy</span>
+                  <p className="ifo-white">Protect sensitive information in your data with accurate censoring!
+</p>
+                  {/* <p className="ifo-white">We help you protect it through our secure redaction.</p> */}
                 </div>
               </div>
             </div>
@@ -48,7 +49,7 @@ class Redaction extends Component {
             <div class="uk-container uk-padding ifo-container">
 
               <div className="uk-text-center">
-                <p>Nothing is more valuable than a perfect data and it means a lot to us. Data can contain a wide range of information and what happens if such information is acquired by untrusted third parties? There are plenty of resources that cite to these information and prevention of its misuse can be difficult. One possible way to get protected is to hide it from them. And it is this for what we are here. Our secure redaction services helps you successfully obscure any sensitive information contained within the data. </p>
+                <p>Data has become the major element of world development. Information contained in data can be legally used for achieving ambitious goals and targets. But what if the data are acquired by untrusted third parties? Chances of its misuse are more and one possible way to get it prevented is by hiding it totally. With our secure redaction services you can accurately obscure sensitive information contained within your data. </p>
               </div>
             </div>
           </div>
@@ -60,9 +61,9 @@ class Redaction extends Component {
                 <div className="uk-text-left">
                   <h2>What we <span className="ifo-about-heading-lorem">Redact</span> </h2>
                   <div class="uk-child-width-1-3 uk-text-center" uk-grid="true" style={{ marginTop: "30px" }}>
-                    <RedactionComponent redactionImageUrl={textImg} redactionTitle="Text Redaction" redactionContent="We redact sensitive texts contained in PDFs and other forms of documents. "></RedactionComponent>
-                    <RedactionComponent redactionImageUrl={redImg} redactionTitle="Image Redaction" redactionContent="We redact sections of images containing valuable information. "></RedactionComponent>
-                    <RedactionComponent redactionImageUrl={videoImg} redactionTitle="Video Redaction" redactionContent="We redact parts of video footage. CCTV footage is a common use case. "></RedactionComponent>
+                    <RedactionComponent redactionImageUrl={textImg} redactionTitle="Text Redaction" redactionContent="Sensitive information present in PDF and other text documents are redacted accurately. "></RedactionComponent>
+                    <RedactionComponent redactionImageUrl={redImg} redactionTitle="Image Redaction" redactionContent="Images contain several information like human faces, number boards, etc. We censor these sections of an image using perfectly bounding opaque boxes."></RedactionComponent>
+                    <RedactionComponent redactionImageUrl={videoImg} redactionTitle="Video Redaction" redactionContent="We track and redact videos like CCTV footage, AV training data, etc. using perfectly bounding opaque boxes."></RedactionComponent>
 
 
                   </div>
@@ -80,11 +81,11 @@ class Redaction extends Component {
                 <div className="uk-text-left">
                   <h2>Why <span className="ifo-about-heading-lorem">Us</span> </h2>
                   <div class="uk-child-width-1-3 uk-text-center" uk-grid="true" style={{ marginTop: "30px" }}>
-                    <RedactionComponent redactionImageUrl={secureImg} redactionTitle="Secure Platform" redactionContent="INFOLKS is one of the most secure redaction platforms available in the market. ISO 27001:2013 certification along with compatibility of systems with GDPR standards are the prime attractions of our services. "></RedactionComponent>
-                    <RedactionComponent redactionImageUrl={choiceImg} redactionTitle="Varied Choices" redactionContent="With INFOLKS you can avail a wide variety of redaction services based on your requirement. Be it any type of data, we are always there to safeguard your privacy. "></RedactionComponent>
-                    <RedactionComponent redactionImageUrl={qualityImg} redactionTitle="Fine Quality" redactionContent="Quality is the cornerstone attribute of our redaction services. Our quality enhancement mechanism ensures you the best quality redaction and privacy protection."></RedactionComponent>
+                    <RedactionComponent redactionImageUrl={secureImg} redactionTitle="Secure Platform" redactionContent="INFOLKS is one of the most secure redaction platforms available in the market. ISO 27001:2013 certification along with compatibility of systems with GDPR standards are the prime attractions of our services."></RedactionComponent>
+                    <RedactionComponent redactionImageUrl={choiceImg} redactionTitle="Varied Choices" redactionContent="With INFOLKS you can avail a wide variety of redaction services based on your requirement. Be it any type of data, we are always there to safeguard your privacy."></RedactionComponent>
+                    <RedactionComponent redactionImageUrl={qualityImg} redactionTitle="Fine Quality" redactionContent="We are ISO 9001:2015 certified. Our quality enhancement mechanism ensures you quality redaction and privacy protection."></RedactionComponent>
                     <RedactionComponent redactionImageUrl={pricingImg} redactionTitle="Pricing" redactionContent="Services at INFOLKS are always reasonable and the lowest in the market. No matter what the services are, we provide quality and cost-effective support."></RedactionComponent>
-                    <RedactionComponent redactionImageUrl={lessImg} redactionTitle="Less Complexity" redactionContent="Finally have got something to redact. Get connected to us without any complex procedures. Simply mail us your requirements and get your needs done. Contact Us for enabling your protection now."></RedactionComponent>
+                    <RedactionComponent redactionImageUrl={lessImg} redactionTitle="Less Complexity" redactionContent="Finally got something to redact? Get connected to us without any complex procedures. Share your requirements with us and get your needs done."></RedactionComponent>
                     {/* <RedactionComponent redactionImageUrl="http://www.myiconfinder.com/uploads/iconsets/53d5151ca4f467ed9951f85024881c85.png" redactionTitle="Text Redaction" redactionContent="We redact sensitive texts contained in PDFs and other forms of documents. "></RedactionComponent>
                   <RedactionComponent redactionImageUrl="http://www.myiconfinder.com/uploads/iconsets/53d5151ca4f467ed9951f85024881c85.png" redactionTitle="Text Redaction" redactionContent="We redact sensitive texts contained in PDFs and other forms of documents. "></RedactionComponent>
                   <RedactionComponent redactionImageUrl="http://www.myiconfinder.com/uploads/iconsets/53d5151ca4f467ed9951f85024881c85.png" redactionTitle="Text Redaction" redactionContent="We redact sensitive texts contained in PDFs and other forms of documents. "></RedactionComponent> */}

@@ -3,6 +3,7 @@ import './Banner.css'
 import homeData from '../strings.json'
 
 import banneImg from '../../assets/Group/Home/oUTpUT/Home.jpg'
+import logo from '../../assets/iso.png'
 
 class Banner extends Component {
   render() {
@@ -16,8 +17,18 @@ class Banner extends Component {
 
             <div className="uk-position-center-left" style={{ paddingLeft: "50px", zIndex: 900 }}>
               <h1 className="ifo-fontweight-700 ifo-white" style={{ fontSize: "70px" }}>{homeData.home.homeHeading}</h1>
-              <span className="ifo-white">{homeData.home.homeDesc}</span>
+              <span className="ifo-white">{homeData.home.homeDesc}</span><br></br>
+              <div style={{ marginTop: "20px" }}>
+                <img src={logo} height="100px" width="100px" style={{ marginRight: "50px" }}></img>
+                <img src={logo} height="100px" width="100px" style={{ marginRight: "50px" }}></img>
+                <img src={logo} height="100px" width="100px" style={{ marginRight: "50px" }}></img>
+
+              </div>
+              <div style={{ marginTop: "20px" }}>
+                <button class="uk-button uk-button-danger" style={{ borderRadius: "10px" }}>Download brocure</button>
+              </div>
             </div>
+
           </div>
           <div className="uk-hidden@m ifo-mobile-padding">
             <h1>outstading outstaffing</h1>
@@ -47,6 +58,8 @@ class Banner extends Component {
                 <h1 style={{ marginTop: "80%", fontWeight: "700" }} className="ifo-white">{homeData.home.homeHeading}</h1>
                 <span className="ifo-white">{homeData.home.homeDesc}</span>
 
+              </div>
+              <div>
               </div>
             </div>
 

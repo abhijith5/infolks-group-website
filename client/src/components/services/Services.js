@@ -26,6 +26,7 @@ class Services extends Component {
                 <ServiceComponent
                   serviceImageUrl={annotation}
                   seviceImageName={homeServiceData.home.homeOurServices.homeOurServices1.serviceImageName}>
+
                 </ServiceComponent>
                 <ServiceComponent
                   serviceImageUrl={software}

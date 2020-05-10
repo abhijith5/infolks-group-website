@@ -21,9 +21,10 @@ class Outstaffing extends Component {
               <div class="uk-overlay-primary uk-position-cover" style={{ marginTop: "-20px", height: "80vh", width: "100vw" }} ></div>
               <div class="">
                 <div className="uk-position-center-left" style={{ paddingLeft: "50px", zIndex: 900, marginTop: "50px" }}>
-                  <h1 className="ifo-white" style={{ fontSize: "50px" }}>Staffing Through </h1>
-                  <span className="ifo-communities-heading-brand ifo-white" style={{ fontSize: "50px" }}>Outstaffing</span>
-                  <p className="ifo-white">The best platform to outsource you staffing requirements.</p>
+                  <span className="ifo-communities-heading-brand ifo-white" style={{ fontSize: "50px" }} >Outstaffing Services</span><br></br>
+                  <span className="ifo-white" style={{ fontSize: "50px" }}>for Offshore Businesses  </span>
+                  <p className="ifo-white">Set up an offshore team and workspace according to your requirements.
+</p>
                 </div>
               </div>
             </div>
@@ -39,21 +40,26 @@ class Outstaffing extends Component {
             <div class="uk-container uk-padding ifo-container">
 
               <div className="uk-text-center">
-                <p>Planning to set up your new team in India? With our outstaffing services, we help you set up the right team exclusively for meeting your business goals. By conducting effective interviews and drives relevant to your niche we entrust you the best recruits available in India. Our outstaffing service also guarantees a fully functional workplace for your teams functioning. Unlike outsourcing, you also have the complete authority over the team. Fulfil your business motives by setting up the right team now.</p>
+                <p>Planning to set up your new team in India? With our outstaffing services, you can set up a perfect Offshore Dedicated Center for your organisation in India. We help you hire the right candidates for your offshore team by conducting interviews and drives relevant to your niche. With our outstaffing services you can also get a fully functional workplace for your teams functioning. Unlike outsourcing, you will have complete authority over the team</p>
               </div>
             </div>
           </div>
 
+
+
           <div className="section-redactionWhat">
             <div class="uk-container uk-padding ifo-container">
-
+              <div className="section-redactionWhat1" style={{ marginBottom: "150px" }}>
+                <h1>Offshore Dedicated Centers (ODC)</h1>
+                <p>ODC is a special feature of our outstaffing services that enables you to enjoy all the features of our outstaffing service altogether. Both the team and workspace required for the offshore business will be arranged. Recently we have assisted CONTINENTAL in setting up a fully functional ODC for successful completion of their upcoming projects.   </p>
+              </div>
               <div>
                 <div className="uk-text-left">
                   <h2>Why <span className="ifo-about-heading-lorem">Us</span> </h2>
                   <div class="uk-child-width-1-4 uk-text-center" uk-grid="true" style={{ marginTop: "30px" }}>
-                    <RedactionComponent redactionImageUrl={driversImg} redactionTitle="Consistent Drives" redactionContent="We conduct recruitment drives relevant to your niche consistently to find the best fit for your requirements. "></RedactionComponent>
-                    <RedactionComponent redactionImageUrl={recruiteImg} redactionTitle="Reliable Recruits" redactionContent="With our outstaffing services, we entrust you the most reliable recruits in India. The only needful requirement is a detailed description of talent you are looking for.  "></RedactionComponent>
-                    <RedactionComponent redactionImageUrl={productImg} redactionTitle="Increased Productivity" redactionContent="Hiring the most reliable and dedicated recruits through our cost-effective outstaffing services, we ensure an increased productivity for your business.  "></RedactionComponent>
+                    <RedactionComponent redactionImageUrl={driversImg} redactionTitle="Rich workspace" redactionContent="We help you set up the perfect workspace with all needed infrastructure for your team. Depending on project requirements, all needed measures or policies will be implemented."></RedactionComponent>
+                    <RedactionComponent redactionImageUrl={recruiteImg} redactionTitle="Reliable Recruits" redactionContent="With our outstaffing services, we entrust you the most reliable recruits in India. The only needful requirement is a detailed description of talent you are looking for. "></RedactionComponent>
+                    <RedactionComponent redactionImageUrl={productImg} redactionTitle="Increased Productivity" redactionContent="Hiring the most reliable and dedicated recruits through our cost-effective outstaffing services, we ensure an increased productivity for your business."></RedactionComponent>
                     <RedactionComponent redactionImageUrl={communicationImg} redactionTitle="Easy Communication" redactionContent="Time zone difference can be a hurdle in communications. Well it is not with INFOLKS! We have a 24x7 working team to handle all your needs making your team management easier."></RedactionComponent>
 
 

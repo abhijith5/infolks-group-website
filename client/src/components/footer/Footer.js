@@ -24,7 +24,7 @@ class Footer extends Component {
                     <div>
                       <ul className="uk-list uk-text-left ifo-white" style={{ fontSize: "14px" }}>
                         <h4 className="ifo-white">Services</h4>
-                        <li><a href="https://infolks.info/" style={{ color: "#fff" }}>Image Annotation</a></li>
+                        <li><a href="https://infolks.info/" style={{ color: "#fff" }}>Data Labelling</a></li>
                         <li><a href="software" style={{ color: "#fff" }}>Software Development</a></li>
                         <li><a href="redaction" style={{ color: "#fff" }}>Redaction</a></li>
                         <li><a href="bpo" style={{ color: "#fff" }}>BPO Services</a></li>
@@ -39,7 +39,7 @@ class Footer extends Component {
                         <li><a href="/community#qa" style={{ color: "#fff" }}>Q & A</a></li>
                         <li><a href="/community#social" style={{ color: "#fff" }}>Social Responsibility</a></li>
                         <li><a href="/community#meetups" style={{ color: "#fff" }}>Meetups</a></li>
-
+                        <li><a href="newsroom" style={{ color: "#fff" }}>News Room</a></li>
                       </ul>
                     </div>
                     <div className="uk-text-left ifo-white">
@@ -48,6 +48,20 @@ class Footer extends Component {
                         Infolks building<br />
                         Mannarkkad<br />
                         Kerala</p>
+                      <p style={{ fontSize: "14px", margin: "0" }}>info@infolks.in</p>
+                      <p style={{ fontSize: "14px", margin: "0" }}>HR: +91 7025889922</p>
+                      <p style={{ fontSize: "14px", margin: "0" }}>Project: +91 7025889911</p>
+                      <p style={{ fontSize: "14px", margin: "0" }}>(for Client Related enquiries only)</p>
+                      <div>
+                        <ul className="uk-list uk-flex">
+                          <li style={{ marginRight: "25px", marginTop: "10px" }}><a href="https://www.facebook.com/infolks.Group/
+" uk-icon="icon: facebook"></a></li>
+                          <li style={{ marginRight: "25px" }}><a href=" https://www.linkedin.com/company/infolks/" uk-icon="icon: linkedin"></a></li>
+                          <li style={{ marginRight: "25px" }}><a href=" https://twitter.com/infolksmkd/" uk-icon="icon: twitter"></a></li>
+                          <li style={{ marginRight: "25px" }}><a href="https://www.instagram.com/infolks/" uk-icon="icon: instagram"></a></li>
+
+                        </ul>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -56,7 +70,7 @@ class Footer extends Component {
 
             </div>
             <div className="uk-text-center ifo-white" style={{ borderTop: "1px solid #ededed", paddingTop: "20px", paddingBottom: "20px" }}>
-              Copyright Infolks Group
+              ISO 27001:2013 Certified | ISO 9001:2015 Certified | © 2020 INFOLKS
         </div>
           </div>
 

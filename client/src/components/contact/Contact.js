@@ -63,12 +63,11 @@ class Contact extends Component {
               <div class="uk-overlay-primary uk-position-cover" style={{ marginTop: "-20px", height: "80vh", width: "100vw" }} ></div>
               <div class="" style={{ marginTop: "100px" }}>
                 <div className="uk-position-center-left" style={{ paddingLeft: "50px", zIndex: 900 }}>
-                  <h1 className="ifo-white" style={{ fontSize: "50px" }}>Contact</h1>
-                  <p>
-                    <p className="uk-text-bold ifo-white" style={{ marginBottom: 0 }}>Address</p>
-                    <p className="ifo-white" style={{ marginTop: 0 }}>Infolks Pvt ltf<br />Infolks Building<br />Mannarkkad<br />Kerala</p>
-                    <p className="ifo-white"> <span uk-icon="icon: mail;" className="uk-white" style={{ paddingRight: "10px" }}></span> infolks@gmail.com</p>
-                    <p className="ifo-white"> <span uk-icon="icon: receiver;" className="uk-white" style={{ paddingRight: "10px" }}></span> +91234324829</p>
+                  <h1 className="ifo-white" style={{ fontSize: "50px" }}>Want To Standout Your Business?</h1>
+                  <p style={{ color: "white" }}>
+                    We are here to help you gain success. Want to know more about our services, pricings and demos?
+                    Get In Touch with our executives now!
+
 
                   </p>
                 </div>

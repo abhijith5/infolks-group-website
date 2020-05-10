@@ -8,6 +8,7 @@ import Testimonials from './testimonials/Testimonials';
 import OurProducts from './our-products/OurProducts';
 import Navigation from './navigation/Navigation';
 import Back from './Back';
+import newsRoom from './newsRoom/newsRoom';
 
 class Home extends Component {
   render() {

@@ -20,9 +20,10 @@ class Bpo extends Component {
               <div class="uk-overlay-primary uk-position-cover" style={{ marginTop: "-20px", height: "80vh", width: "100vw" }} ></div>
               <div class="">
                 <div className="uk-position-center-left" style={{ paddingLeft: "50px", zIndex: 900, marginTop: "50px" }}>
-                  <h1 className="ifo-white" style={{ fontSize: "50px" }}>BPO Services For </h1>
-                  <span className="ifo-communities-heading-brand ifo-white" style={{ fontSize: "50px" }}>Business Agility</span>
-                  <p className="ifo-white">Speed up your business growth through our BPO services.</p>
+                  <span className="ifo-communities-heading-brand ifo-white" style={{ fontSize: "50px" }}>BPO Services</span><br></br>
+                  <span className="ifo-white" style={{ fontSize: "50px" }}>For Business Agility</span>
+                  <p className="ifo-white">Speed up your business growth through our BPO services
+</p>
                 </div>
               </div>
             </div>
@@ -38,7 +39,9 @@ class Bpo extends Component {
             <div class="uk-container uk-padding ifo-container">
 
               <div className="uk-text-center">
-                <p>Crunching numbers, cold calls and large account databases are some of the secondary hardships that a growing business has to face. Does this too slow down your company growth? Speed up your business growth by outsourcing all your secondary business needs to us that setback your business agility. We enable efficient BPO services to support businesses carry out their overburdened business process under any scenario.  </p>
+                <p>Crunching numbers, cold calls and large account databases are some of the secondary hardships that a growing business has to face. Does this slow down your company growth? Speed up your business growth by outsourcing your secondary business needs that setback your business agility. We enable efficient BPO services to support businesses carry out their overburdened business process under any scenario.
+
+</p>
               </div>
             </div>
           </div>
@@ -91,7 +94,7 @@ class Bpo extends Component {
                   </div>
                 </div>
               </div>
-              <div data-aos="fade-up" class="uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding" style={{ boxShadow: 0 }} uk-grid="true">
+              {/* <div data-aos="fade-up" class="uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding" style={{ boxShadow: 0 }} uk-grid="true">
                 <div class="uk-card-media-left uk-cover-container">
                   <img src={kowlwdgImg} alt="" uk-cover="true" />
                   <canvas width="600" height="400"></canvas>
@@ -106,7 +109,7 @@ class Bpo extends Component {
                     </ul>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

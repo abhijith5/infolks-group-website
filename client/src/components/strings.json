@@ -1,17 +1,17 @@
 {
   "home": {
-    "homeHeading": "OUTSTANDING OUTSOURCING…!",
-    "homeDesc": "Get your secondary needs done with our curated teams.",
+    "homeHeading": "Standout Your Business With Our Outstanding Outsourcing",
+    "homeDesc": "Get seamless high quality business services at reasonable charges! ",
     "homeAbout": {
       "homeAboutHeading": "",
       "homeAboutHeadingHigh": "",
-      "homeAboutDescription": " Infolks group is a rapidly growing outsourcing company that offers services with a variety of resources through systematic management approach. Our ability to integrate diversification from resources to meet growing demands across multiple sector had enabled us to carry out any work in a cost-efficient manner. We support your businesses by taking away the time-consuming secondary tasks from your day-to-day routines. By offering all kinds of outsourcing services with global capability, we had enabled a complete spectrum of business services to our worldwide customers. With young and talented minds in hand, Infolks offers a consulting-led approach and focuses on integrated end-to-end business services that deliver transformational benefits to the clients through process re-engineering, lower costs and better productivity.",
+      "homeAboutDescription": "Infolks group is a fast growing outsourcing company and the No.1 data labelling company in India. We function with a team of around 350 employees to meet your business requirements that can help you achieve your actual organizational goals. As an outsourcing expert, we provide services in various business sectors. Our ability to integrate diversification in resources to meet market demands enables us to ensure quality and cost-efficient services at any time. Being innovative and technologically motivated, we aim at supporting organizations that power-up future technologies like Computer Vision & Machine Learning. Hence, data labelling is our most featured service.",
       "homeAboutBtn": "Learn More About"
     },
     "homeMissionVision": {
       "homeMissionVisionHeading": "Mission & Vision",
-      "homeMissionDescription": "“To reform our village and inspire the world with tireless youth to enhance the best quality services”",
-      "homeVisionDescription": "“We desire to become the most compelling outsourcing providers in the world offering utmost in meeting customer expectations and grant immense opportunities to young talents.” "
+      "homeMissionDescription": "“To enable rural development through employment generation, environmental growth, and balanced regional development.”",
+      "homeVisionDescription": "“To enable effective outsourcing at the most reasonable cost.” "
     },
     "homeOurServices": {
       "homeOurServicesHeading": "Our",
@@ -19,7 +19,7 @@
       "homeOurServicesShortDescription": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,",
       "homeOurServices1": {
         "serviceImageUrl": "https://www.websiteblue.com/wp-content/uploads/Alpha-Digital-Logo.png",
-        "serviceImageName": "Image Annoatation"
+        "serviceImageName": "Data Labelling"
       },
       "homeOurServices2": {
         "serviceImageUrl": "https://www.websiteblue.com/wp-content/uploads/Alpha-Digital-Logo.png",
@@ -103,19 +103,19 @@
     }
   },
   "about": {
-    "aboutHeading": "About Us",
-    "aboutShortDescription": "We are a leading outsourcing company majored in image annotation services.",
-    "aboutDescription1": "At Infolks, we work to meet the secondary needs of leading companies so that they can concentrate more on their actual goals. Being a technologically motivated and innovative entity, we always aim at powering up future technologies. This is why we are very much focused on image annotation services. With just 7 young and energetic minds we started our journey way back in 2016. From there on we leveraged to a considerable sum of around 250 employees within just a span of 3 years. Guided by the most talented and experienced one among us Mr. Mujeeb Kolasseri, Founder, MD & CEO of INFOLKS Group, we had triumph the world with our skills especially in image annotation. We have never limited ourselves to image annotation. Furthermore we outsource services accounting to BPO, redaction, software development and outstaffing. We are always ready to stretch and flex ourselves according to your needs so that your milestones, timelines and budgets are not forced to. ",
-    "aboutDescription2": "",
+    "aboutHeading": "We Are Infolks Family",
+    "aboutShortDescription": "A leading outsourcing company specialized in data labelling services. ",
+    "aboutDescription1": "Journey of Infolks began in 2016 as the only image annotation company in the state. The idea of such a venture was formulated by a trio considering their expertise and experience in the niche. Started off with a 7-member team, the first workspace was set up temporarily at the ancestral home of one of the directors. Team strength leveraged quickly over a count of 20+ employees marking the official beginning of Infolks. By the end of 2016, a team of qualified annotators were moulded and the team was still counting. When the team count exceeded a count of 70 we shifted our workspace from the ancestral home to our well set up office structure. ",
+    "aboutDescription2": "As time went on more young workforce kept on joining our cause and within a span of 1 year we could expand our team to a count of 150+ employees. By the time, our qualified annotators were not only well versed in image annotation but also in other data labelling services. This was the moment for us to think something big and diverse and decided to enable multiple outsourcing services. By the end of 3rd successful year we extended our workspace including more infrastructure. Today Infolks is an ISO certified company outsourcing services with a team of around 250 employees. Data labelling and outstaffing are our featured services. So far we have worked with numerous Fortune 10 and Fortune 100 companies. CONTINENTAL AG is one of the recent additions in our list. We have collaborated with them to set up a fully functional Offshore Dedicated Center.  ",
     "numberEmbloyees": "210",
     "timeline": {
       "timelineHeading": "Milestine",
       "timeline1": {
-        "timelineYear": "June 2016",
+        "timelineYear": "2016",
         "timelineDescription": "No business is born huge and comes up from small victories. Starting off with a seven-member team, introduced annotation services in the state. Being a beginner in this field the hurdles ahead were plenty."
       },
       "timeline2": {
-        "timelineYear": "Sep 2016",
+        "timelineYear": "2017",
         "timelineDescription": "Moving past the incubation period marked our official and legal beginning towards encountering new possibilities. Our workforce leveraged to a count of 20+ employees along with building the best management team. We started the journey towards our expected goal."
       },
       "timeline3": {
@@ -137,15 +137,15 @@
     }
   },
   "communities": {
-    "communitiesHeading": "Welcome to",
-    "communitiesHeadingHigh": "Infolks Family",
-    "communitiesDescription": "We change the way people feel about work life through our friendly and family atmosphere. ",
+    "communitiesHeading": "Work Community",
+    "communitiesHeadingHigh": "at Infolks",
+    "communitiesDescription": "We change the way people feel about work life through our friendly and family atmosphere.",
     "worklife": {
       "worklifeHeading": "Worklife @ ",
       "worklifeHeadingHigh": "Infolks",
-      "worklifeDescription1": "Work culture is the base foundation of our success. At Infolks, we follow a family concept which is rare to see in many companies. In such a hostile environment we offer our members better salary packages and flexibility which makes it easy for them to find a balance in their work and life. We are also proud to be an organization that takes pride in its young work-force. Such a workforce is made possible by providing a great platform to freshers and youngsters, and make them excellent professionals by providing a wide horizon to grow and develop their skill",
-      "worklifeDescription2": "Occasional events are the next better thing at INFOLKS. Ranging from regional holidays to international days are celebrated for upkeeping the morale of employees. Quality day conducted monthly to honour the quality skills of employees and INFIESTA (anniversary celebration) held annually are some of the most notable celebrations of INFOLKS. Despite celebrations we also keep up the morale of employees through reduced work loads. For this Infolks follows international standards in working hours. Here our members need to work for only 7 hours a day compared to the Indian standards making the opportunities at Infolks high rated.  ",
-      "worklifeDescription3": "We are very transparent in terms of hiring policies, financials,vision and our social responsibilities. Good work culture, pleasing company management, stress-free environment, Insurance for you and your dependents and best salary package makes Infolks an exciting place to work. "
+      "worklifeDescription1": "Work culture is the base foundation of our success. At Infolks, we follow a family concept which is rare to see in many companies. In such a hostile environment we offer our members better salary packages and flexibility which makes it easy for them to find a balance in their work and life. We are an organization that takes pride in its young work-force. Such a workforce is made possible by providing a great platform to freshers and youngsters, and make them excellent professionals by offering a wide horizon to grow and develop their skill.",
+      "worklifeDescription2": "Occasional events are the next better thing at INFOLKS. Ranging from regional holidays to international days are celebrated for upkeeping the morale of employees. Apart from these common days we also have Infolks exclusive days and celebrations like Quality Day and INFIESTA. Quality day is conducted on the first of every month to honour the quality skills of employees and INFIESTA is our annual celebration. Despite celebrations we also keep up the morale of employees through reduced work loads. For this Infolks follows international standards while formulating working hours. Here our members need to work for only 7 hours a day compared to the regional standards, making the opportunities at Infolks high rated.",
+      "worklifeDescription3": "We are very transparent in terms of hiring policies, financials, vision and our social responsibilities. Good work culture, pleasing company management, stress-free environment, Insurance for you and your dependents and best salary package makes Infolks an exciting place to work "
     },
     "meetups": {
       "meetupsHeading": "Meetups",
@@ -173,7 +173,7 @@
     "social": {
       "socialHeading": "Social",
       "socialHeadingHigh": " Responsibility",
-      "socialDescription": "Being a tech giant is not the only vision of Infolks. We strongly believe that we hold a huge responsibility towards our society and make someone’s dream come true. You may feel like a drop in the bucket. But every drop counts. With around 250 young and energetic employees, especially from rural areas, we are still working to meet the goals of our ultimate campaign “Employed India”. In addition to it, Infolks have taken over almost 20 families over the past 3 years with clear guidance from our charity council. The ultimate aim of Infolks is empowering communities, ending poverty. This divine effort and fruitful dedication towards the community made Infolks look after many indigent families especially by providing victuals. "
+      "socialDescription": "We strongly believe that we hold a huge responsibility towards our society and make someone’s dream come true. With around 350 young and energetic employees, especially from rural areas, we are still working to achieve the goals of our vision. In addition Infolks has taken over 20 families over the past 3 years with a clear guidance from our charity council. The ultimate aim of Infolks is to bring rural development, empower communities, and end poverty. This divine effort and fruitful dedication towards the community help Infolks look after many indigent families especially by providing victuals.We do not consider this as a charity. It's simply just a knock to the future! "
     },
     "qa": {
       "qaHeading": "Questions & Answers",

@@ -13,7 +13,7 @@ class AboutHome extends Component {
         <AboutPage></AboutPage>
         <AboutIntro></AboutIntro>
         <Timeline></Timeline>
-        <JoinTheTeam></JoinTheTeam>
+        {/* <JoinTheTeam></JoinTheTeam> */}
 
         <Back></Back>
       </div>
