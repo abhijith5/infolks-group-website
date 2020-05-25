@@ -9,6 +9,7 @@ import OurProducts from './our-products/OurProducts';
 import Navigation from './navigation/Navigation';
 import Back from './Back';
 import newsRoom from './newsRoom/newsRoom';
+import PressMentions from './pressMentions/PressMentions';
 
 class Home extends Component {
   render() {
@@ -17,11 +18,13 @@ class Home extends Component {
         {/* <Navigation></Navigation> */}
         <Banner></Banner>
         <About></About>
-        <Mission></Mission>
+        {/* <Mission></Mission> */}
         <Services></Services>
-        <OurTeam></OurTeam>
+        {/* <OurTeam></OurTeam>
         <Testimonials></Testimonials>
-        <OurProducts></OurProducts>
+        <OurProducts></OurProducts> */}
+
+        <PressMentions></PressMentions>
 
         <Back></Back>
       </div>

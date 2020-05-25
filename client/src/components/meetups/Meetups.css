@@ -7,3 +7,15 @@
 .meetups-content {
   padding-top: 90px;
 }
+
+.meet1{
+  background-image: url("../../assets/meet1.png");
+}
+
+.meet2{
+  background-image: url("../../assets/meet2.png");
+}
+
+.meet3{
+  background-image: url("../../assets/meet3.png");
+}

@@ -50,7 +50,7 @@ class Bpo extends Component {
             <div class="uk-container uk-padding ifo-container">
               <h2>What We  <span className="ifo-about-heading-lorem">Offer?</span> </h2>
 
-              <div className="section-software-brand">
+              {/* <div className="section-software-brand">
                 <div class="uk-container uk-padding ifo-container">
 
                   <div className="uk-text-center">
@@ -58,7 +58,7 @@ class Bpo extends Component {
                     <p>Build a brand, acquire a recognition, make a positive impact with your clients. We help you design the perfect logo, marketing collateral, stationery and other branding features. Let us together build your <span className="uk-text-bold">BRAND</span> </p>
                   </div>
                 </div>
-              </div>
+              </div> */}
 
               <div data-aos="fade-up" class="uk-grid-collapse uk-child-width-1-2@s uk-margin uk-padding" style={{ boxShadow: 0 }} uk-grid="true">
                 <div class="uk-card-media-left uk-cover-container">

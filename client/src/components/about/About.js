@@ -12,7 +12,7 @@ class About extends Component {
             <div className="ifo-about-heading uk-text-center">
               {/* <h2>{homeAboutData.home.homeAbout.homeAboutHeading} <span className="ifo-about-heading-lorem">{homeAboutData.home.homeAbout.homeAboutHeadingHigh}</span></h2> */}
               <p className="uk-text-justify">{homeAboutData.home.homeAbout.homeAboutDescription}</p>
-              <button class="uk-button uk-button-primary ifo-btn">{homeAboutData.home.homeAbout.homeAboutBtn}</button>
+              <button class="uk-button uk-button-primary ifo-btn">Learn More About us</button>
             </div>
           </div>
         </div>

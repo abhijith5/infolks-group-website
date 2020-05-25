@@ -21,7 +21,7 @@ class Team extends Component {
     return (
       <div>
         <div className="uk-visible@m">
-          <div className="section-teamPage">
+          {/* <div className="section-teamPage">
 
             <div class="uk-inline">
               <img src={teamImg} alt="" style={{ marginTop: "-20px", height: "80vh", width: "100vw", objectFit: "cover" }} />
@@ -34,18 +34,20 @@ class Team extends Component {
                   <p className="ifo-white">{teamData.ourTeam.ourTeamDescription}</p>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            {/* <div className="ifo-communities-heading">
+          {/* <div className="ifo-communities-heading">
               <h1 className="ifo-black" style={{ fontSize: "40px", paddingTop: "50px" }}>Our <span className="ifo-communities-heading-brand ifo-white" style={{ fontSize: "40px" }}>Team</span>
               </h1>
               <p className="ifo-black">{teamData.ourTeam.ourTeamDescription}</p>
             </div> */}
-          </div>
+          {/* </div> */}
 
           <div className="section-directors" >
-            <div className="uk-container uk-padding ifo-container uk-text-center sd">
-              <h2>Our <span className="ifo-about-heading-lorem">Directors</span></h2>
+            <div className="uk-container uk-padding ifo-container sd">
+              {/* <h2>Our <span className="ifo-about-heading-lorem">Directors</span></h2> */}
+
+              <h2 style={{ marginBottom: 0 }}>Meet Infolks Family</h2>
 
               <div class="uk-child-width-1-2 uk-text-center" uk-grid="true" style={{ marginTop: "10%" }} data-aos="fade-up">
                 <div>

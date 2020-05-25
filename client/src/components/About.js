@@ -4,6 +4,9 @@ import AboutIntro from './about-intro/AboutIntro';
 import Timeline from './timeline/Timeline';
 import JoinTheTeam from './jointheteam/JoinTheTeam';
 import Back from './Back';
+import Mission from './mission/mission';
+import Team from './team/Team';
+import OurFolks from './ourFolks/OurFolks';
 
 
 class AboutHome extends Component {
@@ -12,6 +15,10 @@ class AboutHome extends Component {
       <div>
         <AboutPage></AboutPage>
         <AboutIntro></AboutIntro>
+        <Mission></Mission>
+        <Team></Team>
+        <OurFolks></OurFolks>
+
         <Timeline></Timeline>
         {/* <JoinTheTeam></JoinTheTeam> */}
 

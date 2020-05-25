@@ -14,7 +14,7 @@ class Communities extends Component {
             <div class="">
               <div className="uk-position-center-left" style={{ paddingLeft: "50px", zIndex: 900 }}>
                 <h1 className="ifo-white" style={{ fontSize: "60px" }}>{communitiesData.communities.communitiesHeading}</h1>
-                <span className="ifo-communities-heading-brand ifo-white" style={{ fontSize: "60px" }}> {communitiesData.communities.communitiesHeadingHigh}</span>
+                <span className=" ifo-white" style={{ fontSize: "60px" }}> {communitiesData.communities.communitiesHeadingHigh}</span>
                 <p className="ifo-white">{communitiesData.communities.communitiesDescription}</p>
               </div>
             </div>

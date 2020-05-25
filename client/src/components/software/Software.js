@@ -50,7 +50,7 @@ class Software extends Component {
               </div>
             </div>
           </div>
-
+{/* 
           <div className="section-software-lead" data-aos="fade-up">
             <div class="uk-container uk-padding ifo-container">
 
@@ -68,7 +68,7 @@ class Software extends Component {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
 
           <div className="section-software-what" data-aos="fade-up">
             <div class="uk-container uk-padding ifo-container">

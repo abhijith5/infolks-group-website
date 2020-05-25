@@ -25,7 +25,8 @@ class Navigation extends Component {
               <li><Link to="/">Home</Link></li>
               <li><Link to="/about">About Us</Link></li>
               <li><Link to="/community">Community</Link></li>
-              <li><Link to="/ourteam">Our Team</Link></li>
+              {/* <li><Link to="/ourteam">Our Team</Link></li> */}
+              <li><Link to="/newsroom">News Room</Link></li>
               <li><Link to="https://infolks.info/career">Career</Link></li>
               <li><Link to="/contact">Contact</Link></li>
               <li><a href="https://www.infolks.info/blog/">Blog</a></li>

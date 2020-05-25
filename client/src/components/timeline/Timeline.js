@@ -11,7 +11,7 @@ class Timeline extends Component {
           <div class="uk-container uk-padding ifo-container">
 
             <div className="uk-text-center">
-              <h2>{aboutData.about.timeline.timelineHeading}</h2>
+              <h2>Milestones</h2>
             </div>
             <div class="timeline">
               <div class="container left" >

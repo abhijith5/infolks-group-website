@@ -19,15 +19,15 @@ class Community extends Component {
         <Communities></Communities>
         <div className="section-community">
           <div class="uk-container uk-padding ifo-container uk-text-center">
-            <a className="uk-button uk-visible@m" href="#worklife">Worklife</a>
+            {/* <a className="uk-button uk-visible@m" href="#worklife">Worklife</a>
             <a className="uk-button uk-visible@m" href="#meetups">Meetups</a>
             <a className="uk-button uk-visible@m" href="#qa">Q & A</a>
             <a className="uk-button uk-visible@m" href="#code">Code</a>
             <a className="uk-button uk-visible@m" href="#blog">Blog</a>
             <a className="uk-button uk-visible@m" href="#videos">Videos</a>
             {/* <a className="uk-button" href="#tech">Technical</a> */}
-            <a className="uk-button uk-visible@m" href="#social">Social Responsibility</a>
-            <a className="uk-button uk-visible@m" href="#gallery">Gallery</a>
+            {/* <a className="uk-button uk-visible@m" href="#social">Social Responsibility</a> */}
+            {/* <a className="uk-button uk-visible@m" href="#gallery">Gallery</a> */} 
 
             <hr></hr>
             <div id="worklife">
@@ -39,21 +39,21 @@ class Community extends Component {
             <div id="social">
               <Social></Social>
             </div>
-            <div id="qa">
+            {/* <div id="qa">
               <StackOverFlow></StackOverFlow>
-            </div>
-            <div id="code">
+            </div> */}
+            {/* <div id="code">
               <Code></Code>
-            </div>
+            </div> */}
             <div id="blog">
               <Blog></Blog>
             </div>
-            <div id="videos">
+            {/* <div id="videos">
               <Video></Video>
-            </div>
-            <div id="tech">
+            </div> */}
+            {/* <div id="tech">
               <Technical></Technical>
-            </div>
+            </div> */}
 
             <div id="gallery">
               <Galleryq></Galleryq>

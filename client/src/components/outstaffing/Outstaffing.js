@@ -50,8 +50,21 @@ class Outstaffing extends Component {
           <div className="section-redactionWhat">
             <div class="uk-container uk-padding ifo-container">
               <div className="section-redactionWhat1" style={{ marginBottom: "150px" }}>
-                <h1>Offshore Dedicated Centers (ODC)</h1>
-                <p>ODC is a special feature of our outstaffing services that enables you to enjoy all the features of our outstaffing service altogether. Both the team and workspace required for the offshore business will be arranged. Recently we have assisted CONTINENTAL in setting up a fully functional ODC for successful completion of their upcoming projects.   </p>
+                <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid="true">
+                  <div>
+                    <div class="uk-card-body">
+                      <h1>Offshore Dedicated Centers (ODC)</h1>
+                      <p>ODC is a special feature of our outstaffing services that enables you to enjoy all the features of our outstaffing service altogether. Both the team and workspace required for the offshore business will be arranged. Recently we have assisted CONTINENTAL in setting up a fully functional ODC for successful completion of their upcoming projects.   </p>
+                    </div>
+                  </div>
+                  <div>
+                    <div class="uk-card-body">
+                      <img src={productImg}></img>
+                    </div>
+                  </div>
+
+                </div>
+
               </div>
               <div>
                 <div className="uk-text-left">

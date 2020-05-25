@@ -12,11 +12,11 @@ class NavigationHeader extends Component {
           <div className="uk-navbar-right" style={{ paddingRight: "50px" }}>
 
             <ul className="uk-navbar-nav ifo-nav" style={{ marginTop: "-20px" }}>
-              <li><a href="https://www.infolks.info/">Image Annotation</a></li>
-              <li><Link to="software">Software Solutions</Link></li>
-              <li><Link to="redaction">Redaction</Link></li>
-              <li><Link to="bpo">BPO Services</Link></li>
+              <li><a href="https://www.infolks.info/">Data Labelling</a></li>
               <li><Link to="outstaffing">Out Staffing</Link></li>
+              <li><Link to="redaction">Redaction</Link></li>
+              <li><Link to="software">Software Solutions</Link></li>
+              <li><Link to="bpo">BPO Services</Link></li>
 
             </ul>
 

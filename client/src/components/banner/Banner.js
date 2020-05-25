@@ -25,7 +25,9 @@ class Banner extends Component {
 
               </div>
               <div style={{ marginTop: "20px" }}>
-                <button class="uk-button uk-button-danger" style={{ borderRadius: "10px" }}>Download brocure</button>
+                <button class="uk-button uk-button-danger" style={{ borderRadius: "10px" }}>Download brochure</button>
+                <button class="uk-button uk-button-primary" style={{ borderRadius: "10px", marginLeft: "20px" }}>Contact us</button>
+
               </div>
             </div>
 

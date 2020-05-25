@@ -3,6 +3,8 @@ import './Contact.css'
 import axios from 'axios'
 import contactImg from '../../assets/Group/ContactUS/OutPut/ContactUs.jpg'
 import Back from '../Back';
+import pricingImg from '../../assets/Group/WhyUS/OutPuts/Icons/Pricing.png'
+
 
 class Contact extends Component {
   constructor() {
@@ -57,7 +59,6 @@ class Contact extends Component {
       <div>
         <div className="uk-visible@m">
           <div className="section-contact">
-
             <div class="uk-inline">
               <img src={contactImg} alt="" style={{ marginTop: "-20px", height: "80vh", width: "100vw", objectFit: "cover" }} />
               <div class="uk-overlay-primary uk-position-cover" style={{ marginTop: "-20px", height: "80vh", width: "100vw" }} ></div>
@@ -70,11 +71,80 @@ class Contact extends Component {
 
 
                   </p>
+                  <h2 style={{ color: "white" }}>Get In Touch with our executives now!</h2>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="uk-child-width-1-2@m uk-grid-small uk-grid-match" uk-grid="true">
+
+            <div>
+              <div class=" uk-card-body uk-text-center">
+                <img src={pricingImg} width="600px" height="700px"></img>
+                <p>Either submit the form or feel free to drop us a mail at<a href=""> info@infolks.in</a></p>
+              </div>
+            </div>
+            <div>
+              <div class=" uk-card-body">
+                <div className="section-contact-about">
+                  <div className="uk-container uk-padding ifo-container">
+
+                    <div style={{}}>
+                      <form className=" " onSubmit={this.handleSubmit}>
+
+                        <div class="uk-margin">
+                          <label class="uk-form-label uk-text-bold" for="form-stacked-text">Name</label>
+                          <div class="uk-form-controls">
+                            <input type="text" class="uk-input" id="form-stacked-text" type="text" placeholder="Enter Name" name="name" onChange={this.handleChange} />
+                          </div>
+                        </div>
+                        <div class="uk-margin">
+                          <label class="uk-form-label uk-text-bold" for="form-stacked-text">Title</label>
+                          <div class="uk-form-controls">
+                            <input type="text" class="uk-input" id="form-stacked-text" type="text" placeholder="Enter title" name="title" onChange={this.handleChange} />
+                          </div>
+                        </div>
+                        <div class="uk-margin">
+                          <label class="uk-form-label uk-text-bold" for="form-stacked-text">Company Name</label>
+                          <div class="uk-form-controls">
+                            <input type="text" class="uk-input" id="form-stacked-text" type="text" placeholder="Enter Company Name" name="companyName" onChange={this.handleChange} />
+                          </div>
+                        </div>
+                        <div class="uk-margin">
+                          <label class="uk-form-label uk-text-bold" for="form-stacked-text">Business Mail</label>
+                          <div class="uk-form-controls">
+                            <input type="email" class="uk-input" id="form-stacked-text" type="text" placeholder="Enter email" name="bussinessMail" onChange={this.handleChange} />
+                            <span style={{ fontSize: "14px", color: "#afabab" }}>We'll never share your email with anyone else</span>
+                          </div>
+                        </div>
+                        <div class="uk-margin">
+                          <label class="uk-form-label uk-text-bold" for="form-stacked-text">Contact Number</label>
+                          <div class="uk-form-controls">
+                            <input type="text" class="uk-input" id="form-stacked-text" type="text" placeholder="Enter Contact Number" name="contactNumber" onChange={this.handleChange} />
+                          </div>
+                        </div>
+                        <div class="uk-margin">
+                          <label class="uk-form-label uk-text-bold" for="form-stacked-text">Comments</label>
+                          <textarea type="textarea" class="uk-textarea" rows="5" placeholder="Textarea" name="comments" onChange={this.handleChange}></textarea>
+                        </div>
+                        <div className="uk-text-right">
+                          <button type="submit" className="uk-button uk-button-default ifo-btn">Submit</button>
+                        </div>
+                      </form>
+                    </div>
+
+                  </div>
                 </div>
               </div>
             </div>
 
-            {/* <div className="ifo-communities-heading">
+          </div>
+
+
+
+          {/* <div className="ifo-communities-heading">
               <h1 className="ifo-white" style={{ fontSize: "50px" }}>Contact</h1>
               <p>
                 <p className="uk-text-bold ifo-white" style={{ marginBottom: 0 }}>Address</p>
@@ -84,59 +154,10 @@ class Contact extends Component {
 
               </p>
             </div> */}
-          </div>
-
-          <div className="section-contact-about">
-            <div className="uk-container uk-padding ifo-container">
-              <h2 className="uk-text-center">Get In Touch</h2>
-
-              <div style={{ paddingLeft: "25%", paddingRight: "25%" }}>
-                <form className=" " onSubmit={this.handleSubmit}>
-
-                  <div class="uk-margin">
-                    <label class="uk-form-label uk-text-bold" for="form-stacked-text">Name</label>
-                    <div class="uk-form-controls">
-                      <input type="text" class="uk-input" id="form-stacked-text" type="text" placeholder="Enter Name" name="name" onChange={this.handleChange} />
-                    </div>
-                  </div>
-                  <div class="uk-margin">
-                    <label class="uk-form-label uk-text-bold" for="form-stacked-text">Title</label>
-                    <div class="uk-form-controls">
-                      <input type="text" class="uk-input" id="form-stacked-text" type="text" placeholder="Enter title" name="title" onChange={this.handleChange} />
-                    </div>
-                  </div>
-                  <div class="uk-margin">
-                    <label class="uk-form-label uk-text-bold" for="form-stacked-text">Company Name</label>
-                    <div class="uk-form-controls">
-                      <input type="text" class="uk-input" id="form-stacked-text" type="text" placeholder="Enter Company Name" name="companyName" onChange={this.handleChange} />
-                    </div>
-                  </div>
-                  <div class="uk-margin">
-                    <label class="uk-form-label uk-text-bold" for="form-stacked-text">Business Mail</label>
-                    <div class="uk-form-controls">
-                      <input type="email" class="uk-input" id="form-stacked-text" type="text" placeholder="Enter email" name="bussinessMail" onChange={this.handleChange} />
-                      <span style={{ fontSize: "14px", color: "#afabab" }}>We'll never share your email with anyone else</span>
-                    </div>
-                  </div>
-                  <div class="uk-margin">
-                    <label class="uk-form-label uk-text-bold" for="form-stacked-text">Contact Number</label>
-                    <div class="uk-form-controls">
-                      <input type="text" class="uk-input" id="form-stacked-text" type="text" placeholder="Enter Contact Number" name="contactNumber" onChange={this.handleChange} />
-                    </div>
-                  </div>
-                  <div class="uk-margin">
-                    <label class="uk-form-label uk-text-bold" for="form-stacked-text">Comments</label>
-                    <textarea type="textarea" class="uk-textarea" rows="5" placeholder="Textarea" name="comments" onChange={this.handleChange}></textarea>
-                  </div>
-                  <div className="uk-text-right">
-                    <button type="submit" className="uk-button uk-button-default ifo-btn">Submit</button>
-                  </div>
-                </form>
-              </div>
-
-            </div>
-          </div>
         </div>
+
+
+        {/* </div> */}
 
         <div className="uk-hidden@m">
           <div className="section-mobile-contact">

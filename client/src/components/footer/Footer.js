@@ -25,10 +25,10 @@ class Footer extends Component {
                       <ul className="uk-list uk-text-left ifo-white" style={{ fontSize: "14px" }}>
                         <h4 className="ifo-white">Services</h4>
                         <li><a href="https://infolks.info/" style={{ color: "#fff" }}>Data Labelling</a></li>
-                        <li><a href="software" style={{ color: "#fff" }}>Software Development</a></li>
-                        <li><a href="redaction" style={{ color: "#fff" }}>Redaction</a></li>
-                        <li><a href="bpo" style={{ color: "#fff" }}>BPO Services</a></li>
                         <li><a href="outstaffing" style={{ color: "#fff" }}>Out Staffing</a></li>
+                        <li><a href="redaction" style={{ color: "#fff" }}>Redaction</a></li>
+                        <li><a href="software" style={{ color: "#fff" }}>Software Development</a></li>
+                        <li><a href="bpo" style={{ color: "#fff" }}>BPO Services</a></li>
                       </ul>
                     </div>
                     <div>
